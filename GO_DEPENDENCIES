@@ -1,0 +1,6 @@
+
+1. VIPER - https://github.com/spf13/viper/ -  Configiration Read
+
+2. COBRA - https://github.com/spf13/cobra/ - CLI
+
+3. GIN - https://github.com/gin-gonic/gin - HTTP FRAMEWORK
